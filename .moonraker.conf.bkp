@@ -6,6 +6,7 @@ klippy_uds_address = /home/pi/printer_data/comms/klippy.sock
 [authorization]
 trusted_clients = 
 	100.86.233.63
+	100.99.97.18
 	100.67.34.89
 	100.116.107.88
 	100.78.73.88
