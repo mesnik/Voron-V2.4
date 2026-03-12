@@ -14,6 +14,10 @@ https://github.com/EricZimmerman/VoronTools/blob/main/EBB_CAN.md#pi
 
 https://canbus.esoterical.online/toolhead_klipper_updating.html
 
+https://canbus.esoterical.online/toolhead_klipper_updating.html
+
+https://canbus.esoterical.online/toolhead_flashing/common_hardware/BigTreeTech%20SB2209%20(RP2040)/README.html
+
 
 **Update CanBus COMPLETE**
 https://canbus.esoterical.online/
