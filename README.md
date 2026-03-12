@@ -1,6 +1,7 @@
 **How to back up and recover**
 https://github.com/EricZimmerman/Voron-Documentation/blob/main/community/howto/EricZimmerman/BackupConfigToGithub.md
 
+
 **OS Upgrade**
 https://github.com/EricZimmerman/VoronTools/blob/main/OSUpgrade.md
 
@@ -8,7 +9,11 @@ https://github.com/EricZimmerman/VoronTools/blob/main/OSUpgrade.md
 https://github.com/dw-0/kiauh
 
 **Update CanBus**
+
 https://github.com/EricZimmerman/VoronTools/blob/main/EBB_CAN.md#pi
+
+https://canbus.esoterical.online/toolhead_klipper_updating.html
+
 
 **Update CanBus COMPLETE**
 https://canbus.esoterical.online/
