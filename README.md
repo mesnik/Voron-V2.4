@@ -18,9 +18,11 @@ https://github.com/shiftingtech/Moonraker-loader/tree/main
 
 **##Rpi Micro Controller Setup##**
 https://www.klipper3d.org/RPi_microcontroller.html
+
 https://docs.ldomotors.com/en/voron/Picobilical 
 
 **Update/Flash MCU**
+
 cd ~/klipper/scripts
 python3 -c 'import flash_usb as u; u.enter_bootloader(/dev/serial/by-id/usb-Klipper_stm32f446xx_35001B000450534E4E313020-if00)'
 cd ..
