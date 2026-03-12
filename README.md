@@ -18,6 +18,7 @@ https://github.com/shiftingtech/Moonraker-loader/tree/main
 
 **##Rpi Micro Controller Setup##**
 https://www.klipper3d.org/RPi_microcontroller.html
+https://docs.ldomotors.com/en/voron/Picobilical
 
 **Update/Flash MCU**
 cd ~/klipper/scripts
