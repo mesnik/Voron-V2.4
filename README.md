@@ -8,11 +8,7 @@ https://github.com/EricZimmerman/VoronTools/blob/main/OSUpgrade.md
 **Kiauh**
 https://github.com/dw-0/kiauh
 
-**Update CanBus**
-
-https://github.com/EricZimmerman/VoronTools/blob/main/EBB_CAN.md#pi
-
-https://canbus.esoterical.online/toolhead_klipper_updating.html
+**Update CanBus:**
 
 https://canbus.esoterical.online/toolhead_klipper_updating.html
 
@@ -32,7 +28,7 @@ https://www.klipper3d.org/RPi_microcontroller.html
 https://docs.ldomotors.com/en/voron/Picobilical 
 
 
-**Update/Flash MCU**
+**Update/Flash MCU:**
 
 cd ~/klipper/scripts
 python3 -c 'import flash_usb as u; u.enter_bootloader(/dev/serial/by-id/usb-Klipper_stm32f446xx_35001B000450534E4E313020-if00)'
